@@ -9,3 +9,5 @@ Remember those Saturday mornings spent in front of the TV, watching your favorit
 No complicated menus, no interruptions — just pure nostalgia at your fingertips.
 
 Want to go back in time? Stay tuned — RewindTube is here to make your childhood memories binge-worthy again!
+
+Click Here To Download RewindTube : https://github.com/prashantpatil0/RewindTube/releases/download/v1.0.0/RewindTube.apk
