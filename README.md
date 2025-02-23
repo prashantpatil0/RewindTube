@@ -6,6 +6,13 @@ Remember those Saturday mornings spent in front of the TV, watching your favorit
 📺 Random cartoon episodes from the 2000s
 💡 Fun, random advice for a nostalgic twist
 
+📲 How to Install:
+
+- Download the APK from the link below.
+- Open the file on your Android device.
+- If prompted, allow installation from unknown sources in your settings/or install without scanning.( Don't worry app is totally safe)
+- Launch RewindTube and start watching!
+
 No complicated menus, no interruptions — just pure nostalgia at your fingertips.
 
 Want to go back in time? Stay tuned — RewindTube is here to make your childhood memories binge-worthy again!
